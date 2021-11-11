@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shubham Agarwal
 - 👀 I’m interested in Exploring the data and comes out with visualized form of the data
 - 🌱 I’m currently learning Fundamentals of Analytics, SQL, Seaborn 
-- 
 - 📫 How to reach me shubhamagarwal7219@gmail.com
 
 <!---
