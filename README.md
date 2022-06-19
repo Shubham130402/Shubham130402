@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubham Agarwal
+👋 Hi, I’m Shubham Agarwal
 - 👀 I’m interested in Exploring the data and comes out with visualized form of the data
 - 🌱 I’m currently learning Fundamentals of Analytics,Statistics, SQL, PYTHON.
 - Love to play Badmintton and Chess with like minded people.
